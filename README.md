@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 MCA Student passionate about technology  
 💻 Full Stack Web Developer  
@@ -41,20 +41,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-DataAnalysis-purple?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-Computing-blue?style=for-the-badge&logo=numpy)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-ML-orange?style=for-the-badge&logo=scikitlearn)
-
----
-
-# 🚀 Featured Projects
-
-### 📈 Bitcoin Price Prediction Website
-- Machine Learning model to predict Bitcoin prices
-- Web interface with admin and user modules
-- Graph visualization of predictions
-
-### 🌱 Organic Food Traceability System using Blockchain
-- Track organic food supply chain
-- Transparency from farmer to consumer
-- Secure blockchain-based record system
 
 ---
 
