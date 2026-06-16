@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 🎓 MCA Student passionate about technology  
 💻 Full Stack Web Developer  
